@@ -1,0 +1,14 @@
+How to install KVM on CentOS 7.
+
+#first step to install KVM, disable SELinux first.
+$sudo setenforce 0
+
+#make sure qemu is installed
+$sudo install qemu-kvm qemu-img
+
+#install libvirt manager
+$sudo yum install virt-manager libvirt libvirt-python libvirt -client
+
+#check the libvirtd is running
+$sudo systemctl status libvirtd
+$sudo systemctl start libvirtd
