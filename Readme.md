@@ -8,9 +8,8 @@ _explanation here_
 
 **LICENCE**
 
-_What I know is from other people. Knowledge means to be shared. 
-
-All stuffs from me is free and to contribute._
+_What I know is from other people. Knowledge means to be shared._ 
+_All stuffs from me is free and to contribute._
 
 
 **TO THE WORLD**
